@@ -1,0 +1,26 @@
+{
+  "name": "conFusion",
+  "homepage": "https://github.com/AmirHMousavi/Bootstrap_UIFrameworks",
+  "authors": [
+    "AmirHMousavi <ah.mousavi@hotmail.com>"
+  ],
+  "description": "Website for a resturant",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "Bootstrap"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
